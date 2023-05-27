@@ -1,0 +1,37 @@
+.transaction-history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+  width: 425px;
+  margin: 0 auto;
+  padding: 0;
+  border: solid 1px teal;
+}
+
+.transaction-history th {
+  width: 100px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.transaction-history td {
+  width: 100px;
+  border-top: solid 1px teal;
+}
+
+.type {
+  font-size: 18px;
+} 
+
+.amount {
+  font-size: 18px;
+  text-align: right;
+}
+
+.currency {
+  font-size: 18px;
+}
+
+

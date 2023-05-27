@@ -1,0 +1,56 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 425px;
+  margin: 0 auto;
+  padding: 25px 0;
+  border: solid 1px teal;
+}
+
+.description {
+  margin: 0;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 50%;
+  background-color: lightgrey;
+}
+
+.name {
+  margin-top: 12px;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.tag {
+  margin: 0;
+  font-size: 18px;
+}
+
+.location {
+  margin: 12px 0;
+  font-size: 18px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+  padding: 0;
+  text-align: center;
+}
+
+.label {
+  display: flex;
+  margin: 0;
+  font-size: 18px;
+}
+
+.quantity {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 500;
+}
