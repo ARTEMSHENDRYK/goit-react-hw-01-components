@@ -28,6 +28,7 @@
 .amount {
   font-size: 18px;
   text-align: right;
+  font-weight: 500;
 }
 
 .currency {
